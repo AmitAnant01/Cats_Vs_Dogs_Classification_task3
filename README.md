@@ -21,7 +21,7 @@ The dataset is preprocessed, trained, and tested to achieve high accuracy using 
 - Metrics: Accuracy
 
 ## Tools and Libraris that i use:
-- Python 
+- Python and its libraries 
 
 - TensorFlow / Keras
 
