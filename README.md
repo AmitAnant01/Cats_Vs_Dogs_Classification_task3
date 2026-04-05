@@ -22,9 +22,6 @@ The dataset is preprocessed, trained, and tested to achieve high accuracy using 
 
 ## Tools and Libraris that i use:
 - Python and its libraries 
-
 - TensorFlow / Keras
-
 - NumPy, Pandas, Matplotlib
-
 - Google Colab / Jupyter Notebook
